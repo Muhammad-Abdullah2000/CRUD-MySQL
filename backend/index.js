@@ -16,8 +16,8 @@ app.use(cors());
 const db = sql.createConnection({
   host: "127.0.0.1",
   user: "root",
-  password: "pakistan14",
-  database: "mysqlcrud",
+  password: "",
+  database: "",
 
 });
 
